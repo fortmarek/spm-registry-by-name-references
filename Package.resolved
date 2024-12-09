@@ -1,0 +1,38 @@
+{
+  "originHash" : "39a44e06f55288dc0292c777c9ecce356fd94bb5c7fd6844f57c9b39942760ff",
+  "pins" : [
+    {
+      "identity" : "apple.swift-argument-parser",
+      "kind" : "registry",
+      "location" : "",
+      "state" : {
+        "version" : "1.5.0"
+      }
+    },
+    {
+      "identity" : "cpisciotta.xcbeautify",
+      "kind" : "registry",
+      "location" : "",
+      "state" : {
+        "version" : "2.13.0"
+      }
+    },
+    {
+      "identity" : "getGuaka.Colorizer",
+      "kind" : "registry",
+      "location" : "",
+      "state" : {
+        "version" : "0.2.1"
+      }
+    },
+    {
+      "identity" : "MaxDesiatov.XMLCoder",
+      "kind" : "registry",
+      "location" : "",
+      "state" : {
+        "version" : "0.17.1"
+      }
+    }
+  ],
+  "version" : 3
+}
